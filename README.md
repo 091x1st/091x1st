@@ -48,7 +48,7 @@ Sou um desenvolvedor apaixonado por criar soluções úteis, rápidas e com desi
 | Tecnologia | Nível      |
 | ---------- | ---------- |
 | JavaScript | ⭐️⭐️⭐️⭐️⭐️ |
-| MongoDB    | ⭐️⭐️⭐️⭐️⭐️ |
+| Node.js    | ⭐️⭐️⭐️⭐️⭐️ |
 | TypeScript | ⭐️⭐️⭐️⭐️   |
 | Next.js    | ⭐️⭐️⭐️⭐️   |
 | MongoDB    | ⭐️⭐️⭐️⭐️   |
