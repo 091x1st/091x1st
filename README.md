@@ -16,10 +16,10 @@
 ```ts
 const developer = {
   username: "091x1st",
-  foco: ["Frontend", "Backend", "Bots Discord"],
+  foco: ["Frontend", "Backend", "Bots para Discord"],
   stack: ["JavaScript", "TypeScript", "Next.js", "Node.js"],
   database: ["MongoDB", "MySQL"],
-  contato: "em breve..."
+  contato: "Discord: 6y0zx"
 }
 ```
 
