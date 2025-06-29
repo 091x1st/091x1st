@@ -48,9 +48,9 @@ Sou um desenvolvedor apaixonado por criar soluções úteis, rápidas e com desi
 | Tecnologia | Nível      |
 | ---------- | ---------- |
 | JavaScript | ⭐️⭐️⭐️⭐️⭐️ |
+| MongoDB    | ⭐️⭐️⭐️⭐️⭐️ |
 | TypeScript | ⭐️⭐️⭐️⭐️   |
 | Next.js    | ⭐️⭐️⭐️⭐️   |
-| Node.js    | ⭐️⭐️⭐️⭐️   |
 | MongoDB    | ⭐️⭐️⭐️⭐️   |
 
 
@@ -59,4 +59,3 @@ Sou um desenvolvedor apaixonado por criar soluções úteis, rápidas e com desi
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=091x1st&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
-
