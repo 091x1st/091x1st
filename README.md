@@ -1,8 +1,7 @@
 
-
 ## 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Sou apaixonado por desenvolvimento web e estou sempre em busca de novos desafios e aprendizados. Aqui você encontrará projetos pessoais, estudos e ferramentas que desenvolvi com dedicação.
+Sou apaixonado por desenvolvimento web e estou sempre em busca de novos desafios e aprendizados. Aqui você encontra projetos, ideias e ferramentas feitas com dedicação.
 
 ### 🚀 Tecnologias que domino
 
@@ -35,6 +34,7 @@ Sou apaixonado por desenvolvimento web e estou sempre em busca de novos desafios
 ### 📈 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=**SEU_USERNAME**&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**091x1st**&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=091x1st&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=091x1st&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
