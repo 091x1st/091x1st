@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,node,js,html,css" height="55" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,js,html,css" height="55" alt="skills"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Snow ❄️</h1>
